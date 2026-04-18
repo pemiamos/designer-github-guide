@@ -1,0 +1,23 @@
+# macOS 系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# 编辑器临时文件
+.vscode/
+.idea/
+*.swp
+*.swo
+~$*
+
+# Obsidian 工作区配置(个人设置,不需要同步)
+.obsidian/workspace*
+.obsidian/cache
+
+# 临时文件
+*.tmp
+*.log
