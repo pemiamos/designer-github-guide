@@ -16,6 +16,13 @@
 - [设计师的工作流思考](docs/03-设计师工作流.md) — 为什么不能照搬工程师的做法
 - [优质资源推荐](resources/优质仓库推荐.md) — 图标、字体、设计系统、工具
 - [学习笔记](notes/) — 持续更新的实战记录
+- [HCI 百科（中文翻译）](HCI百科/) — 人机交互百科全书第二版，49 章节中文译文
+
+## HCI 百科全书
+
+收录自 [The Encyclopedia of Human-Computer Interaction, 2nd Ed.](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed)，共 49 个章节的中文翻译，涵盖交互设计、用户体验、研究方法、理论框架等核心领域。
+
+→ [查看完整目录](HCI百科/📚%20HCI百科%20-%20目录索引.md)
 
 ## 为什么要做这件事
 
@@ -43,4 +50,4 @@
 
 ---
 
-*最后更新:2026-04-18 · 持续维护中*
+*最后更新:2026-04-26 · 持续维护中*
